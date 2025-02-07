@@ -1,74 +1,105 @@
 <div align="center">
 
-<h1> Mohamed Khaled Ahmed Hamad </h1>
+# 🚀 Mohamed Khaled Ahmed Hamad  
 
-<a href="https://github.com/mohamedhekal">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedhekal&show_icons=true&theme=dark" />
-</a>
+![Profile Views](https://komarev.com/ghpvc/?username=mohamedhekal&color=blue&style=flat-square)
 
-<h2> About Me </h2>
+💻 **IT Specialist & Network Administrator** | 🚀 **Backend Developer** | 🔗 **Blockchain Enthusiast**  
 
-I'm a passionate IT Support Technician, Network Administrator, Backend Developer, and Blockchain Enthusiast. I have over 3 years of experience in IT infrastructure, network security, and troubleshooting. I'm also a full-stack developer with 6+ years of experience in backend development using Laravel, PHP, and Python.
+🔧 **3+ years in IT Infrastructure & Network Security** | 💡 **6+ years in Backend Development**  
 
-<h2> Tech Stack </h2>
+🌍 Passionate about **automation, cybersecurity, Web3, and scalable IT solutions.**  
 
-<h3> Programming: </h3>
+---
 
-* Python
-* PHP
-* JavaScript
+## **⚡ About Me**  
+🛠 **Tech Enthusiast & Problem Solver** with deep expertise in **IT Support, Networking, Backend Development, and Blockchain Technologies**.  
 
-<h3> Frameworks & Libraries: </h3>
+💡 **Key Skills:**  
+✔️ Building scalable **backend systems & APIs** using **Laravel & Django**  
+✔️ Designing & maintaining **secure IT networks** with cloud integration  
+✔️ Implementing **blockchain dApps & smart contracts** in **Solidity & Web3**  
+✔️ Enhancing **business solutions** with ERP, CRM, and custom software  
 
-* Laravel
-* Django
-* React
+💬 **I’m open to collaborations on:**  
+- 🚀 **Blockchain & Smart Contract Projects**  
+- 🏗️ **Scalable Backend Development**  
+- 🏢 **IT Infrastructure & Cloud Solutions**  
 
-<h3> Blockchain & Web3: </h3>
+---
 
-* Solidity
-* Web3.js
-* Ethereum
+## **🚀 Tech Stack**
+🎯 **Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<h3> DevOps & Cloud: </h3>
+🛠 **Frameworks & Libraries**  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-* Docker
-* Kubernetes
-* AWS
+🔗 **Blockchain & Web3**  
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=javascript&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
-<h2> Work Experience </h2>
+☁️ **DevOps & Cloud**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-* Neisco For Modern Water Technology - IT Specialist & Network Admin
-* Freelance Developer - Full-Stack Web Development (ERP, CRM, HMS)
-* Oracle Media (Palestine) - Remote Backend Developer
-* Noouh For Integrated Software - Manager, IT Solutions
+---
 
-<h2> Get in Touch! </h2>
+## **💼 Work Experience**
+📌 **IT Specialist & Network Administrator** – *Neisco For Modern Water Technology*  
+📌 **Freelance Full-Stack Developer** – *ERP, CRM, HMS Development*  
+📌 **Backend Developer (Remote)** – *Oracle Media, Palestine*  
+📌 **IT Solutions Manager** – *Noouh For Integrated Software*  
 
+🌍 **Worked with clients across Egypt, MENA, and international markets!**  
+
+---
+
+## **📊 GitHub Stats**
+<div align="center">
+  
+![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedhekal&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhekal&layout=compact&theme=radical)  
+
+</div>  
+
+---
+
+## **🌍 Latest Projects**
+🔥 **ERP System** – Custom-built **business management solutions**  
+📊 **CRM Development** – Enhanced **client tracking & automation**  
+💊 **Healthcare Management System (HMS)** – Full **patient management platform**  
+🔗 **Blockchain dApps** – Smart contract-based **Web3 apps**  
+
+---
+
+## **📬 Get in Touch!**
 <a href="https://www.linkedin.com/in/mohamedhekal/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="https://github.com/mohamedhekal">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <a href="mailto:mohamed.hekal@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<h2> Fun Facts About Me </h2>
+---
 
-* I love encryption, decryption, and reverse engineering!
-* I'm constantly learning blockchain, Solidity, and Web3 technologies.
-* I'm passionate about cybersecurity and ethical hacking challenges.
-* I'm playing around with embedded systems and robotics in my free time!
+## **🎯 Fun Facts About Me**  
+✔️ **Encryption & Decryption** – I love solving cryptography challenges 🔐  
+✔️ **Cybersecurity Enthusiast** – Ethical hacking & security research 🔎  
+✔️ **Web3 Learner** – Smart contracts & blockchain tech are my passion!  
+✔️ **Building the Future** – AI, IoT, and embedded systems excite me 🚀  
 
-<h2> Latest Projects </h2>
+---
 
-* ERP System - Full-stack ERP solutions for businesses.
-* CRM Development - Custom-built CRM systems for better client management.
-* Healthcare Management System (HMS) - A complete solution for patient management.
-* Blockchain dApps - Smart contract-based applications with Solidity & Web3.
+🔗 **Let’s collaborate on impactful projects!** 🚀  
 
 </div>
