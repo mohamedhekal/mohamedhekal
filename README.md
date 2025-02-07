@@ -68,6 +68,15 @@
 </p>
 
 
+### **🚀 Power Up Your GitHub Contributions!**
+
+<div align="center">
+  <a href="https://postimg.cc/gnYRV9cV">
+    <img src="https://i.postimg.cc/9F9pjVvn/Github-mohamedhekal.png" alt="Mohamed Hekal GitHub Banner" width="900"/>
+  </a>
+</div>
+
+
 ---
 
 ## **🌍 Latest Projects**
