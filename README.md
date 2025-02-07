@@ -64,7 +64,7 @@
 
 ### **🏆 GitHub Trophies – Showcase Your Achievements**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedhekal&theme=dracula&no-frame=true&margin-w=15&row=1" />
+  <img src="https://camo.githubusercontent.com/606904c5f529784b3ea36df16c5b1c027e54c6b556c125aebe2874cdf7fee498/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6d6f68616d656468656b616c267468656d653d64726163756c61266e6f2d6672616d653d74727565266d617267696e2d773d313526726f773d31" />
 </p>
 
 
