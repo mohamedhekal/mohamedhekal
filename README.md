@@ -61,13 +61,12 @@
 
 ---
 
-## **📊 GitHub Stats**
-<div align="center">
-  
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedhekal&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhekal&layout=compact&theme=radical)  
 
-</div>  
+### **🏆 GitHub Trophies – Showcase Your Achievements**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamedhekal&theme=dracula&no-frame=true&margin-w=15&row=1" />
+</p>
+
 
 ---
 
@@ -80,13 +79,14 @@
 ---
 
 ## **📬 Get in Touch!**
-<a href="https://www.linkedin.com/in/mohamedhekal/">
+<a href="https://www.linkedin.com/in/mohekal/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="https://www.xing.com/profile/Mohamed_Hamad090348"> <img src="https://img.shields.io/badge/Xing-126567?style=for-the-badge&logo=xing&logoColor=white" /> </a>
 <a href="https://github.com/mohamedhekal">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="mailto:mohamed.hekal@gmail.com">
+<a href="mailto:mohamed.k.hekal@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
