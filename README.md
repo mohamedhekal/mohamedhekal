@@ -109,6 +109,29 @@
 
 ---
 
+
+---
+
+## 💬 Connect Instantly on WhatsApp  
+Looking for **quick communication, support, or a collaboration opportunity**?  
+Reach out to me directly on WhatsApp through **AppSenders API-powered chat**!
+
+<div align="center">
+  <a href="https://wa.me/201101013284">
+    <img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chat on WhatsApp" />
+  </a>
+</div>
+
+✅ **Instant replies** powered by automation  
+✅ **Send/receive files, code, or project briefs**  
+✅ **Perfect for project discussions, freelance inquiries, or networking**  
+
+Let’s make communication smart, fast, and efficient.  
+**Powered by [AppSenders](https://wa.me/201101013284)** 🚀
+
+---
+
+
 🔗 **Let’s collaborate on impactful projects!** 🚀  
 
 </div>
