@@ -1,14 +1,25 @@
-<div align="center">
 
 # 🚀 Mohamed Hekal  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohamedhekal&color=blue&style=flat-square)
 
-💻 **IT Specialist & Network Administrator** | 🚀 **Backend Developer** | 🔗 **Blockchain Enthusiast**  
+💻 **IT Specialist & Backend Engineer** | 🌐 **Full Stack Developer** | 🔗 **Blockchain Enthusiast**
 
-🔧 **3+ years in IT Infrastructure & Network Security** | 💡 **6+ years in Backend Development**  
+🔧 **8+ years in Tech** | 🧠 Passionate about solving real-world problems with clean, scalable code.
 
-🌍 Passionate about **automation, cybersecurity, Web3, and scalable IT solutions.**  
+🔗 [LinkedIn](https://www.linkedin.com/in/mohekal/) • [GitHub](https://github.com/mohamedhekal) • [Email](mailto:mohamed.k.hekal@gmail.com)
+
+</div>
+
+---
+
+## ⚡ Who Am I?
+
+> "I didn't just learn to build systems — I learned how to rebuild myself."
+
+I started working in 2014 while still in high school. By 2016, I dove headfirst into the world of software development and IT infrastructure. Since then, I've built ERP systems, led remote teams, launched a tech startup, and powered through some of life’s toughest challenges.
+
+In 2024, after launching a startup and facing major personal losses, I came back stronger — continuing my journey with Laravel, backend systems, API integrations, and cloud infrastructure. I'm not just a coder — I'm a **resilient builder** with global impact.
 
 ---
 
