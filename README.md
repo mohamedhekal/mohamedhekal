@@ -118,13 +118,21 @@ In 2024, after launching a startup and facing major personal losses, I came back
 
 ## **🎯 Fun Facts About Me**  
 ✔️ **Cryptography Addict** – I thrive on cracking codes & solving encryption puzzles 🔐
+
 ✔️ **Cybersecurity Explorer** – Ethical hacking, security research & bug hunting are my playground 🔎
+
 ✔️ **Web3 Enthusiast** – Diving deep into smart contracts, blockchain, and decentralized apps 🌐
+
 ✔️ **PHP Magician** – Building powerful, dynamic web applications with PHP 🐘💻
+
 ✔️ **AI & IoT Innovator** – Building futuristic solutions with artificial intelligence & connected devices 🤖🚀
+
 ✔️ **Backend Wizard** – Crafting scalable, robust systems that just work ⚡💻
+
 ✔️ **Cloud & Infrastructure Buff** – Optimizing servers, networks & cloud environments ☁️🛠️
+
 ✔️ **Puzzle Solver** – From logic games to Bitcoin challenges, I love cracking the toughest problems 🧩💡
+
 ✔️ **Coffee-Powered** Creator – Ideas flow best with a strong cup of coffee ☕✨
 
 ---
