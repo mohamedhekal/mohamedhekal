@@ -67,11 +67,42 @@ In 2024, after launching a startup and facing major personal losses, I came back
 
 ---
 
-## **💼 Work Experience**
-📌 **IT Specialist & Network Administrator** – *Neisco For Modern Water Technology*  
+## 💼 Professional Experience
+
 📌 **Freelance Full-Stack Developer** – *ERP, CRM, HMS Development*  
+Delivered custom web applications and enterprise solutions for clients worldwide, specializing in **PHP, Laravel, Vue.js, and PostgreSQL**. Built scalable, secure, and maintainable systems tailored to client needs.
+
+📌 **Full Stack Engineer (Remote)** – *Kzamiza Affiliate Platform*  
+Sole technical owner; developed the platform end-to-end using **Laravel, Vue.js, MySQL/PostgreSQL**, with dynamic admin dashboards, vendor panels, and affiliate modules. Managed **DevOps and cloud deployments** on AWS & Azure.
+
 📌 **Backend Developer (Remote)** – *Oracle Media, Palestine*  
+Engineered **scalable backend architectures**, developed RESTful APIs, and optimized system performance for high-traffic platforms.
+
+---
+
+### 💻 Additional IT & Infrastructure Experience
+
+📌 **IT Specialist & Network Administrator** – *Neisco For Modern Water Technology*  
+Managed IT infrastructure, optimized networks, and implemented monitoring systems for multiple sites.
+
 📌 **IT Solutions Manager** – *Noouh For Integrated Software*  
+Led IT operations, cloud deployments, server setups, and integrated APIs, providing full technical solutions to clients.
+
+---
+
+### 🌟 Key Highlights
+- Expert in **PHP & Laravel**, building scalable SaaS and enterprise systems.  
+- Strong background in **backend architecture, database design, and RESTful APIs**.  
+- Integrated **third-party APIs** (WhatsApp, SMS, Payment Gateways, Banking).  
+- Experienced in **DevOps, cloud deployment, and CI/CD pipelines**.  
+- Additional expertise in **IT infrastructure, network administration, and cybersecurity**.  
+
+---
+
+### ☕ Let's Connect
+Whether it's **project collaboration, freelance work, or just a coffee chat**, I'm always open!  
+
+[![Chat on WhatsApp](https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201101013284)
 
 🌍 **Worked with clients across Egypt, MENA, and international markets!**  
 
