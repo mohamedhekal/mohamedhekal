@@ -3,11 +3,13 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohamedhekal&color=blue&style=flat-square)
 
-💻 **IT Specialist & Backend Engineer** | 🌐 **Full Stack Developer** | 🔗 **Blockchain Enthusiast**
+💻 **Sr. PHP Developer | Backend Engineer** | 🌐 **Full Stack Developer** |  🔗 **Blockchain Enthusiast**
 
-🔧 **8+ years in Tech** | 🧠 Passionate about solving real-world problems with clean, scalable code.
+🔧 **8+ years in Tech World** | 🧠 Passionate about solving real-world problems with clean, scalable code.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/mohekal/) • [GitHub](https://github.com/mohamedhekal) • [Email](mailto:mohamed.k.hekal@gmail.com)
+
+ ----- **Got a problem? 🛑 I’ve got the solution 💡🚀**
 
 </div>
 
@@ -33,9 +35,12 @@ In 2024, after launching a startup and facing major personal losses, I came back
 ✔️ Enhancing **business solutions** with ERP, CRM, and custom software  
 
 💬 **I’m open to collaborations on:**  
-- 🚀 **Blockchain & Smart Contract Projects**  
-- 🏗️ **Scalable Backend Development**  
-- 🏢 **IT Infrastructure & Cloud Solutions**  
+- 🚀 Innovative PHP Projects – from sleek web apps to complex enterprise solutions.
+- 🏢 Robust ERP & CRM Systems – designing large-scale systems that drive business efficiency.
+- ⛓️ Blockchain & Smart Contract Development – building secure, decentralized solutions.
+- 🏗️ Scalable Backend Architectures – ensuring performance, reliability, and growth-ready systems.
+- ☁️ IT Infrastructure & Cloud Solutions – optimizing infrastructure for speed, security, and scalability.
+- 🤝 Tech Partnerships & Mentorship – bringing ideas to life with collaboration and expertise.
 
 ---
 
