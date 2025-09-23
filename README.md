@@ -102,7 +102,6 @@ In 2024, after launching a startup and facing major personal losses, I came back
 <a href="https://www.linkedin.com/in/mohekal/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.xing.com/profile/Mohamed_Hamad090348"> <img src="https://img.shields.io/badge/Xing-126567?style=for-the-badge&logo=xing&logoColor=white" /> </a>
 <a href="https://github.com/mohamedhekal">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
