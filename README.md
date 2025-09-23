@@ -11,6 +11,20 @@
 
  ----- **Got a problem? 🛑 I’ve got the solution 💡🚀**
 
+
+## 🎵 Listen to My Intro – "AI-Generated Voice"
+
+Get to know me in a quick audio introduction!  
+[▶️ Click here to listen](https://mohamedhamad.info/bio_about_me.mp3)
+
+
+## 🎙️ How I Solve & Trace Problems – "AI-Generated Voice"
+
+Ever wondered how I tackle complex issues, debug code, and trace system problems?  
+Listen to a quick audio explanation of my **problem-solving process and troubleshooting workflow**:  
+
+[▶️ Click here to listen](https://mohamedhamad.info/How_i_solve_issues.mp3)
+
 </div>
 
 ---
