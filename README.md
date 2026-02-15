@@ -133,7 +133,7 @@ Whether it's **project collaboration, freelance work, or just a coffee chat**, I
 
 <div align="center">
   <a href="https://postimg.cc/gnYRV9cV">
-    <img src="https://i.postimg.cc/9F9pjVvn/Github-mohamedhekal.png" alt="Mohamed Hekal GitHub Banner" width="900"/>
+    <img src="https://i.postimg.cc/G2XxvBr2/Screenshot-2026-02-16-at-12-38-47-AM.png" alt="Mohamed Hekal GitHub Banner" width="900"/>
   </a>
 </div>
 
