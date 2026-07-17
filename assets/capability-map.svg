@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="280" viewBox="0 0 520 280">
+<rect width="100%" height="100%" rx="14" fill="#071018"/>
+<text x="24" y="32" fill="#2dd4bf" font-family="ui-sans-serif,system-ui,sans-serif" font-size="16" font-weight="700">Capability map</text>
+<text x="24" y="52" fill="#64748B" font-family="ui-monospace,Menlo,monospace" font-size="11">polyglot · not Laravel-only</text>
+<text x="24" y="80" fill="#cbd5e1" font-family="ui-sans-serif,system-ui,sans-serif" font-size="12">PHP / Laravel</text>
+<rect x="170" y="68" width="300" height="14" rx="4" fill="#0c1a1f"/>
+<rect x="170" y="68" width="285" height="14" rx="4" fill="#777BB4"/>
+<text x="480" y="79" fill="#94a3b8" font-size="11" font-family="ui-monospace,Menlo,monospace">95%</text>
+<text x="24" y="105" fill="#cbd5e1" font-family="ui-sans-serif,system-ui,sans-serif" font-size="12">JavaScript / Node</text>
+<rect x="170" y="93" width="300" height="14" rx="4" fill="#0c1a1f"/>
+<rect x="170" y="93" width="264" height="14" rx="4" fill="#F7DF1E"/>
+<text x="480" y="104" fill="#94a3b8" font-size="11" font-family="ui-monospace,Menlo,monospace">88%</text>
+<text x="24" y="130" fill="#cbd5e1" font-family="ui-sans-serif,system-ui,sans-serif" font-size="12">Python</text>
+<rect x="170" y="118" width="300" height="14" rx="4" fill="#0c1a1f"/>
+<rect x="170" y="118" width="246" height="14" rx="4" fill="#3776AB"/>
+<text x="480" y="129" fill="#94a3b8" font-size="11" font-family="ui-monospace,Menlo,monospace">82%</text>
+<text x="24" y="155" fill="#cbd5e1" font-family="ui-sans-serif,system-ui,sans-serif" font-size="12">TypeScript</text>
+<rect x="170" y="143" width="300" height="14" rx="4" fill="#0c1a1f"/>
+<rect x="170" y="143" width="240" height="14" rx="4" fill="#3178C6"/>
+<text x="480" y="154" fill="#94a3b8" font-size="11" font-family="ui-monospace,Menlo,monospace">80%</text>
+<text x="24" y="180" fill="#cbd5e1" font-family="ui-sans-serif,system-ui,sans-serif" font-size="12">Flutter / Dart</text>
+<rect x="170" y="168" width="300" height="14" rx="4" fill="#0c1a1f"/>
+<rect x="170" y="168" width="234" height="14" rx="4" fill="#02569B"/>
+<text x="480" y="179" fill="#94a3b8" font-size="11" font-family="ui-monospace,Menlo,monospace">78%</text>
+<text x="24" y="205" fill="#cbd5e1" font-family="ui-sans-serif,system-ui,sans-serif" font-size="12">Vue / React</text>
+<rect x="170" y="193" width="300" height="14" rx="4" fill="#0c1a1f"/>
+<rect x="170" y="193" width="255" height="14" rx="4" fill="#42B883"/>
+<text x="480" y="204" fill="#94a3b8" font-size="11" font-family="ui-monospace,Menlo,monospace">85%</text>
+<text x="24" y="230" fill="#cbd5e1" font-family="ui-sans-serif,system-ui,sans-serif" font-size="12">SQL / Redis</text>
+<rect x="170" y="218" width="300" height="14" rx="4" fill="#0c1a1f"/>
+<rect x="170" y="218" width="270" height="14" rx="4" fill="#DC382D"/>
+<text x="480" y="229" fill="#94a3b8" font-size="11" font-family="ui-monospace,Menlo,monospace">90%</text>
+<text x="24" y="255" fill="#cbd5e1" font-family="ui-sans-serif,system-ui,sans-serif" font-size="12">DevOps / Cloud</text>
+<rect x="170" y="243" width="300" height="14" rx="4" fill="#0c1a1f"/>
+<rect x="170" y="243" width="258" height="14" rx="4" fill="#2496ED"/>
+<text x="480" y="254" fill="#94a3b8" font-size="11" font-family="ui-monospace,Menlo,monospace">86%</text>
+</svg>

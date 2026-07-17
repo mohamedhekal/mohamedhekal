@@ -1,6 +1,6 @@
 <!--
   Mohamed Hekal — GitHub Profile
-  Positioning: Laravel Systems Architect · ERP / SaaS · Shipping · EdTech
+  Polyglot Full-Stack · AI-augmented engineering · DevOps · ERP/SaaS
 -->
 
 <!-- ===================== HERO ===================== -->
@@ -11,18 +11,18 @@
 <h1 align="center">Mohamed Hekal</h1>
 
 <p align="center">
-  <b>Senior Backend Engineer · Laravel Systems Architect · Full-Stack Builder</b><br/>
-  <i>I design production systems that survive scale, concurrency, and real business chaos.</i>
+  <b>Senior Full-Stack Engineer · Systems Architect · AI-Augmented Builder</b><br/>
+  <i>Polyglot by craft — Laravel is a strength, not a limit.</i>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohamedhekal&label=profile+views&color=0d9488&style=flat-square" alt="Profile views" />
   &nbsp;
-  <img src="https://img.shields.io/badge/10%2B_years-building_systems-0f172a?style=flat-square&labelColor=134e4a&color=2dd4bf" alt="10+ years" />
+  <img src="https://img.shields.io/badge/10%2B_years-tech_&_systems-0f172a?style=flat-square&labelColor=134e4a&color=2dd4bf" alt="10+ years" />
   &nbsp;
   <img src="https://img.shields.io/badge/Egypt_·_MENA_·_Remote-f59e0b?style=flat-square&labelColor=0f172a" alt="Location" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Available_for_hire_&_collab-2dd4bf?style=flat-square&labelColor=0f172a&logoColor=white" alt="Available" />
+  <img src="https://img.shields.io/badge/Open_for_work_&_collab-2dd4bf?style=flat-square&labelColor=0f172a" alt="Available" />
 </p>
 
 <p align="center">
@@ -34,58 +34,60 @@
 
 ---
 
-<!-- ===================== VALUE PROP ===================== -->
-## Why teams hire me
+## Who I am
 
-I don’t just “write Laravel.”  
-I turn messy business operations — **orders, stock, shipping, money, tenants, classrooms** — into **clean, reusable systems**.
+I build **production systems** across backend, frontend, mobile, cloud, and AI-assisted workflows.  
+Started in tech in **2014**, software & infrastructure by **2016** — ERP/CRM/HMS, SaaS platforms, shipping SDKs, live classrooms, and end-to-end product ownership.
 
-| You need… | I deliver… |
-|:----------|:-----------|
-| A SaaS that won’t leak data between tenants | Multi-tenancy foundations, roles, feature gates, audit trails |
-| ERP / inventory that stays correct under load | Locked stock balances, order state machines, double-entry ledgers |
-| Shipping that works across many carriers | One SDK: create · track · label · return · exchange |
-| Integrations that don’t die in production | Retries, circuit breakers, idempotency, signed webhooks |
-| Live education / realtime product | Classroom core + WebRTC + whiteboard + Vue UI |
+> *I didn’t just learn to build systems — I learned how to rebuild myself.*
 
-> **Positioning:** Senior engineer who ships **installable architecture**, not throwaway demos.
+**What makes me different**
+- **Polyglot delivery** — PHP/Laravel · Node.js · Python · JavaScript/TypeScript · Flutter/Dart · Vue/React  
+- **AI as a force multiplier** — faster design, coding, testing, debugging, and deployment loops  
+- **DevOps from first principles** — servers, networks, Docker, CI/CD, AWS/Azure — not “someone else deploys it”  
+- **Business systems DNA** — inventory, money, tenants, integrations, and operational UIs that survive chaos  
 
 ---
 
-<!-- ===================== PROOF STRIP ===================== -->
-## Proof at a glance
+## Languages & platforms (not Laravel-only)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Since_2014-in_tech-0f172a?style=for-the-badge&labelColor=134e4a&color=2dd4bf" alt="Since 2014" />
-  <img src="https://img.shields.io/badge/8%2B_years-software_&_infra-0f172a?style=for-the-badge&labelColor=134e4a&color=f59e0b" alt="8+ years software" />
-  <img src="https://img.shields.io/badge/End--to--end-ERP_·_CRM_·_HMS_·_SaaS-0f172a?style=for-the-badge&labelColor=134e4a&color=2dd4bf" alt="End-to-end products" />
-  <img src="https://img.shields.io/badge/Open_Source-Laravel_package_ecosystem-0f172a?style=for-the-badge&labelColor=134e4a&color=f59e0b" alt="Open source" />
+  <img src="./assets/polyglot-stack.jpg" alt="Polyglot engineering stack" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP_8.x-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/React_%2F_Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Next" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
-### The story behind the craft
-
-I started working in **2014** while still in high school.  
-By **2016** I was deep in software development and IT infrastructure.
-
-Since then I’ve:
-- Built **ERP / CRM / HMS** platforms for real businesses  
-- Owned products **end-to-end** (product + backend + frontend + DevOps)  
-- Led remote delivery and client work across **Egypt, MENA, and international markets**  
-- Launched a startup, took hard hits in 2024, and came back sharper  
-
-**Mantra:**  
-*I didn’t just learn to build systems — I learned how to rebuild myself.*
+| Domain | What I ship with |
+|:-------|:-----------------|
+| **Backend** | PHP 8.x · Laravel (full-stack ERP/CRM/SaaS) · Node.js · Python · Symfony-ready · OOP · SOLID · Clean Architecture · Modular monolith & microservices patterns |
+| **Frontend** | Vue.js · Next.js / React (supporting) · HTML5 · CSS3 · JavaScript · TailwindCSS · Bootstrap · Responsive & accessible UI |
+| **Mobile** | Flutter / Dart apps & packages |
+| **Data** | MySQL · PostgreSQL · MariaDB · Redis (cache, queues, realtime) · indexing & query optimization |
+| **Realtime / EdTech** | TypeScript SDKs · WebRTC / LiveKit · collaborative whiteboards · web components |
 
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="./assets/systems-map.jpg" alt="Systems architecture map — ERP, shipping, ledger, classroom" width="100%" />
+<img src="./assets/capability-map.svg" alt="Capability map across languages and platforms" width="100%" />
 
-<sub>One brain. Many modules. Production-minded.</sub>
+<sub>Capability map — how I actually work across the stack.</sub>
 
 </td>
 </tr>
@@ -93,203 +95,221 @@ Since then I’ve:
 
 ---
 
-<!-- ===================== EXPERTISE ===================== -->
-## Core expertise (marketed as outcomes)
-
-### 1. Enterprise Laravel & SaaS architecture
-**Hire me when** you need a backend that stays correct as the product grows.
-
-- Multi-tenancy (shared DB, domains, memberships, API keys)  
-- Feature flags & tenant targeting  
-- Roles, abilities, audited impersonation  
-- API versioning, idempotency keys, PII masking  
-- Audit trails for compliance-minded products  
-
-**Keywords:** Laravel 11/12 · PHP 8.2+ · SaaS · multi-tenancy · Pest · PHPStan
-
-### 2. ERP, inventory & money flows
-**Hire me when** stock, orders, or balances can’t afford “almost right.”
-
-- Inventory reserve / commit / release / transfer with locked balances  
-- Order lifecycle state machines  
-- Double-entry ledger thinking for ERP / fintech  
-- Affiliate, vendor, and admin operational panels  
-
-**Keywords:** ERP · WMS · inventory · accounting · PostgreSQL / MySQL · Redis
-
-### 3. Shipping & third-party integrations
-**Hire me when** carriers, payment gateways, or webhooks keep breaking your ops.
-
-- Unified shipping SDK across Egypt / MENA / Turkey / global carriers  
-- Resilient HTTP clients (retry, rate-limit, circuit breaker)  
-- Outbound webhooks + HMAC inbound ingest  
-- WhatsApp / SMS / banking / payment gateway integrations  
-
-**Keywords:** logistics · carriers · webhooks · idempotency · AWS / Azure
-
-### 4. Full-stack product ownership
-**Hire me when** you need one senior who can own the whole surface.
-
-- Laravel + Vue.js dashboards and operational UIs  
-- TypeScript SDKs & web components  
-- Docker, CI/CD, cloud deployment hygiene  
-- From IT networking roots → cloud production systems  
-
-**Keywords:** Vue 3 · TypeScript · DevOps · Docker · AWS
-
----
-
-<!-- ===================== FEATURED PRODUCTS ===================== -->
-## Flagship open-source systems
-
-These are not tutorial repos. They are **libraries meant to be installed**.
-
-### ShipBridge — one shipping API for many carriers
+## AI & automation — how I work faster and sharper
 
 <p align="center">
-  <a href="https://github.com/mohamedhekal/shipbridge">
-    <img src="./assets/shipbridge-visual.jpg" alt="ShipBridge — unified shipping routes" width="100%" />
-  </a>
+  <img src="./assets/ai-automation.jpg" alt="AI-augmented engineering workflows" width="100%" />
 </p>
 
-**Problem:** every carrier has a different API, status language, and label flow.  
-**Solution:** one Laravel abstraction for create · track · label · return · exchange.
+I treat AI as a **senior pair-programmer + accelerator**, not a gimmick:
 
-<p>
-  <a href="https://github.com/mohamedhekal/shipbridge"><img src="https://img.shields.io/badge/GitHub-shipbridge-111827?style=for-the-badge&logo=github&logoColor=2dd4bf" alt="ShipBridge" /></a>
-  <a href="https://packagist.org/packages/mohamedhekal/shipbridge"><img src="https://img.shields.io/badge/Packagist-mohamedhekal%2Fshipbridge-f59e0b?style=for-the-badge&logo=packagist&logoColor=white" alt="Packagist" /></a>
-</p>
+| Capability | In practice |
+|:-----------|:------------|
+| **AI-driven development workflows** | Spec → architecture → implementation loops with agents & copilots |
+| **Code generation & refactoring** | Scaffold packages, tests, migrations, docs — then harden by hand |
+| **Intelligent problem-solving** | Trace production bugs, design alternatives, threat-model edge cases |
+| **AI-assisted testing & QA** | Generate cases, spot regressions, tighten assertions |
+| **Performance optimization** | Profile hotspots, propose indexes/queries, validate under load |
+| **Smarter deployment** | CI checks, release notes, runbooks, and ops playbooks accelerated by AI |
 
-**Carriers covered:** Bosta · Aramex · Mylerz · Turbo · J&T · SMSA · FedEx · UPS · DHL · Egypt Post · MNG · HepsiJet · Yurtiçi · Aras · Sürat · PTT
-
-```php
-$shipment = ShipBridge::driver('bosta')->createShipment($request);
-$label    = ShipBridge::driver('bosta')->label($shipment->id);
-$track    = ShipBridge::driver('bosta')->track($shipment->trackingNumber);
-```
+**Outcome for clients:** shorter delivery cycles, higher code quality, and architecture decisions that stay grounded in production reality.
 
 ---
 
-### ClassBridge — embeddable live classrooms
+## DevOps & cloud infrastructure
 
 <p align="center">
-  <a href="https://github.com/mohamedhekal/classbridge">
-    <img src="./assets/classbridge-visual.jpg" alt="ClassBridge — live classroom stack" width="100%" />
-  </a>
+  <img src="./assets/devops-cloud.jpg" alt="DevOps and cloud infrastructure" width="100%" />
 </p>
 
-**Problem:** education products need realtime video + collaboration without rebuilding WebRTC from scratch.  
-**Solution:** Laravel classroom core + LiveKit provider + TypeScript SDK + Yjs whiteboard + Vue UI + web component.
+I don’t throw code over the wall — I **own the path to production**:
 
-<p>
-  <a href="https://github.com/mohamedhekal/classbridge"><img src="https://img.shields.io/badge/Core-classbridge-111827?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="ClassBridge" /></a>
-  <a href="https://github.com/mohamedhekal/classbridge-sdk"><img src="https://img.shields.io/badge/SDK-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="SDK" /></a>
-  <a href="https://github.com/mohamedhekal/classbridge-vue"><img src="https://img.shields.io/badge/UI-Vue_3-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue UI" /></a>
-</p>
+- **Containers & delivery:** Docker · CI/CD (GitHub Actions, GitLab CI) · automated workflows  
+- **Cloud:** AWS (EC2, RDS, S3) · Azure · performance tuning  
+- **Servers:** Linux administration · Nginx · monitoring · security hardening  
+- **Quality in prod:** Sentry · Laravel Telescope · observability mindset  
+- **Roots that matter:** network admin + IT systems design → fewer “works on my machine” failures  
 
 ---
 
-### Laravel package ecosystem
+## Full skills matrix
 
-| Package | Business value |
-|:--------|:---------------|
-| [`tenantforge`](https://github.com/mohamedhekal/tenantforge) | Launch multi-tenant SaaS without reinventing isolation |
-| [`stockpulse`](https://github.com/mohamedhekal/stockpulse) | Keep inventory truthful under concurrent orders |
-| [`ledgercore`](https://github.com/mohamedhekal/ledgercore) | Double-entry money movement for ERP / fintech |
-| [`ordermachine`](https://github.com/mohamedhekal/ordermachine) | Explicit order lifecycle — no mystery statuses |
-| [`flagdeck`](https://github.com/mohamedhekal/flagdeck) | Roll features safely per tenant / user / % |
-| [`hookrelay`](https://github.com/mohamedhekal/hookrelay) | Reliable outbound + signed inbound webhooks |
-| [`integrator`](https://github.com/mohamedhekal/integrator) | HTTP that retries, rate-limits, and fails gracefully |
-| [`oncegate`](https://github.com/mohamedhekal/oncegate) | Stripe-style Idempotency-Key protection |
-| [`guardrail`](https://github.com/mohamedhekal/guardrail) | Roles, abilities, audited support impersonation |
-| [`testharness`](https://github.com/mohamedhekal/testharness) | Faster, stricter Laravel / Pest testing |
+<details>
+<summary><b>Backend & frameworks</b></summary>
 
-Full catalog → **[oss-portfolio](https://github.com/mohamedhekal/oss-portfolio)**
+PHP 8.x · Laravel (full-stack, ERP/CRM/SaaS) · Node.js · Python · Symfony-ready · OOP · SOLID · Clean Architecture · Modular Monolith & Microservices patterns
+
+</details>
+
+<details>
+<summary><b>Frontend & mobile</b></summary>
+
+Vue.js · Next.js / React (supporting) · HTML5 · CSS3 · JavaScript · TypeScript · TailwindCSS · Bootstrap · Responsive & accessible design · Flutter / Dart
+
+</details>
+
+<details>
+<summary><b>Databases & caching</b></summary>
+
+MySQL · PostgreSQL · MariaDB · Redis (caching, queues, realtime analytics) · Database optimization & indexing
+
+</details>
+
+<details>
+<summary><b>Integrations & APIs</b></summary>
+
+REST APIs · Webhooks · Payment gateways (Stripe, PayPal, local banks) · Shipping & logistics APIs · WhatsApp / SMS · Third-party service integrations · Idempotency & resilience patterns
+
+</details>
+
+<details>
+<summary><b>DevOps & cloud</b></summary>
+
+Docker · CI/CD (GitHub Actions, GitLab) · Linux server administration · Nginx · AWS (EC2, RDS, S3) · Azure · Performance tuning · Monitoring & security hardening
+
+</details>
+
+<details>
+<summary><b>Testing & quality</b></summary>
+
+PHPUnit / Pest · Integration & unit testing · Automated workflows · Code review & refactoring · Sentry & Telescope monitoring
+
+</details>
+
+<details>
+<summary><b>AI & automation</b></summary>
+
+AI-driven development workflows · Code generation · Performance optimization · Intelligent problem-solving · AI-assisted testing & deployment
+
+</details>
+
+<details>
+<summary><b>Enterprise IT & infrastructure</b></summary>
+
+Server & network administration · IT systems design · Legacy modernization · Paper-to-digital transformation · Digital operations optimization
+
+</details>
+
+<details>
+<summary><b>Tools & collaboration</b></summary>
+
+Git · Composer · NPM · Postman · Jira · Slack · Agile / Scrum cross-team delivery
+
+</details>
 
 ---
 
-<!-- ===================== EXPERIENCE ===================== -->
-## Professional experience
+## Why teams hire me
 
-### Freelance Full-Stack Developer — ERP · CRM · HMS
-**What I sold:** custom enterprise web systems for clients who needed operations software, not marketing sites.  
-**Stack:** PHP, Laravel, Vue.js, PostgreSQL  
-**Impact:** scalable, secure, maintainable platforms tailored to real workflows (inventory, clients, healthcare ops).
+| You need… | I deliver… |
+|:----------|:-----------|
+| A backend that stays correct as you scale | Clean architecture, multi-tenancy, audit, feature flags, idempotent APIs |
+| ERP / inventory / money that can’t be “almost right” | Locked stock, order state machines, ledger thinking |
+| Shipping & third-party chaos under control | Unified carrier SDKs, resilient HTTP, signed webhooks |
+| Mobile + web product surface | Flutter apps + Vue/React dashboards on solid APIs |
+| Faster delivery without lowering the bar | AI-augmented workflows + DevOps ownership |
+| Live education / realtime product | ClassBridge-style sessions, WebRTC, whiteboards, SDKs |
 
-### Full-Stack Engineer (Remote) — Kzamiza Affiliate Platform
-**What I owned:** the entire product as sole technical owner.  
-**Built:** admin dashboards, vendor panels, affiliate modules, backend APIs, DevOps on **AWS & Azure**.  
-**Impact:** one engineer shipping a full commercial affiliate platform end-to-end.
+---
 
-### Backend Developer (Remote) — Oracle Media
-**Focus:** scalable backend architectures, REST APIs, performance for high-traffic platforms.
+## Flagship systems
+
+<p align="center">
+  <img src="./assets/systems-map.jpg" alt="Connected systems map" width="72%" />
+</p>
+
+### ShipBridge — unified shipping SDK
+One API across many carriers: create · track · label · return · exchange.  
+[shipbridge](https://github.com/mohamedhekal/shipbridge) · drivers for Bosta, Aramex, Mylerz, Turbo, J&T, SMSA, FedEx, UPS, DHL, Egypt Post, MNG, HepsiJet, Yurtiçi, Aras, Sürat, PTT
+
+<p align="center">
+  <a href="https://github.com/mohamedhekal/shipbridge"><img src="./assets/shipbridge-visual.jpg" alt="ShipBridge" width="100%" /></a>
+</p>
+
+### ClassBridge — live classrooms
+Laravel core + LiveKit + TypeScript SDK + Yjs whiteboard + Vue UI + web components.  
+[classbridge](https://github.com/mohamedhekal/classbridge) · [sdk](https://github.com/mohamedhekal/classbridge-sdk) · [vue](https://github.com/mohamedhekal/classbridge-vue)
+
+<p align="center">
+  <a href="https://github.com/mohamedhekal/classbridge"><img src="./assets/classbridge-visual.jpg" alt="ClassBridge" width="100%" /></a>
+</p>
+
+### Open-source package constellation
+
+| Package | Value |
+|:--------|:------|
+| [`tenantforge`](https://github.com/mohamedhekal/tenantforge) | Multi-tenant SaaS foundation |
+| [`stockpulse`](https://github.com/mohamedhekal/stockpulse) | Concurrent-safe inventory engine |
+| [`ledgercore`](https://github.com/mohamedhekal/ledgercore) | Double-entry ledger |
+| [`ordermachine`](https://github.com/mohamedhekal/ordermachine) | Order lifecycle state machine |
+| [`flagdeck`](https://github.com/mohamedhekal/flagdeck) | Feature flags & tenant targeting |
+| [`hookrelay`](https://github.com/mohamedhekal/hookrelay) | Reliable signed webhooks |
+| [`integrator`](https://github.com/mohamedhekal/integrator) | Retry · rate-limit · circuit breaker |
+| [`oncegate`](https://github.com/mohamedhekal/oncegate) | Idempotency-Key middleware |
+| [`guardrail`](https://github.com/mohamedhekal/guardrail) | Roles · abilities · audited impersonation |
+| [`testharness`](https://github.com/mohamedhekal/testharness) | Pest / Laravel testing utilities |
+
+Full index → **[oss-portfolio](https://github.com/mohamedhekal/oss-portfolio)**
+
+Also: Flutter packages, Python tools, TypeScript SDKs, and product repos beyond the Laravel ecosystem.
+
+---
+
+## Experience
+
+### Freelance Full-Stack — ERP · CRM · HMS
+Enterprise web systems for real operations. **Stack:** PHP/Laravel, Vue, Node where needed, PostgreSQL/MySQL, cloud deploy.
+
+### Full-Stack Engineer — Kzamiza Affiliate Platform *(sole technical owner)*
+End-to-end product: admin · vendor · affiliate · APIs · DevOps on **AWS & Azure**.
+
+### Backend Developer — Oracle Media
+Scalable backends, REST APIs, high-traffic performance work.
 
 ### Foundation — IT Specialist · Network Admin · Solutions Manager
-**Neisco** · **Noouh**  
-Infrastructure, networking, monitoring, cloud deployments, server setups, and API-integrated client solutions.  
-This is why my software thinking includes **failure modes, networks, and operations** — not only controllers and migrations.
-
----
-
-## Tech stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-8.2+-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-11%2F12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Vue.js-3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Pest_%2B_CI-18B69B?style=for-the-badge&logo=githubactions&logoColor=white" alt="Pest CI" />
-</p>
-
-**Also in the toolkit:** Django · Solidity / Web3 · Networking & cybersecurity fundamentals · WhatsApp / SMS APIs · payment gateways.
+**Neisco** · **Noouh** — infrastructure, networks, cloud, servers, client technical delivery.  
+This is why my engineering includes **ops, failure modes, and security**, not only application code.
 
 ---
 
 ## GitHub pulse — last 2 years
 
 <p align="center">
-  <img src="./assets/github-snapshot.svg" alt="GitHub snapshot stats" height="190" />
+  <img src="./assets/github-snapshot.svg" alt="GitHub snapshot" height="190" />
   &nbsp;
-  <img src="./assets/top-languages.svg" alt="Top languages" height="190" />
+  <img src="./assets/capability-map.svg" alt="Capability map" height="190" />
 </p>
 
 <p align="center">
-  <img src="./assets/contributions-2y.svg" alt="Mohamed Hekal GitHub contributions — last 2 years (Jul 2024 → Jul 2026)" width="100%" />
+  <img src="./assets/contributions-2y.svg" alt="Contributions last 2 years" width="100%" />
 </p>
 
 <p align="center">
-  <sub>Heatmap generated from GitHub GraphQL · <b>7,547</b> contributions · Jul 2024 → Jul 2026</sub>
+  <sub><b>7,547</b> contributions · Jul 2024 → Jul 2026 · heatmap from GitHub GraphQL</sub>
 </p>
 
 ---
 
-## Let’s work together
+## Let’s build
 
 <p align="center">
   <img src="./assets/connect-footer.jpg" alt="Let's connect" width="100%" />
 </p>
 
-**Best fit projects**
-- Laravel SaaS / ERP architecture & package design  
-- Shipping / logistics integrations (especially MENA)  
-- Inventory, orders, ledgers, webhook reliability  
-- EdTech / realtime classroom products  
-- Mentorship or technical partnership on serious builds  
+**Best fit**
+- Full-stack / polyglot product builds (web + API + mobile)  
+- AI-accelerated delivery for serious backends & SaaS  
+- DevOps-ready architecture (Docker, CI/CD, AWS/Azure)  
+- ERP · shipping · inventory · multi-tenant platforms  
+- EdTech / realtime systems  
 
 <p align="center">
-  <a href="https://wa.me/201101013284"><img src="https://img.shields.io/badge/☕_Book_a_WhatsApp_coffee_chat-0f172a?style=for-the-badge&labelColor=134e4a&color=2dd4bf" alt="WhatsApp" /></a>
-  <a href="mailto:mohamed.k.hekal@gmail.com"><img src="https://img.shields.io/badge/✉_Email_me-0f172a?style=for-the-badge&labelColor=134e4a&color=f59e0b" alt="Email" /></a>
-  <a href="https://linkedin.com/in/mohekal"><img src="https://img.shields.io/badge/in_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://wa.me/201101013284"><img src="https://img.shields.io/badge/☕_WhatsApp_coffee_chat-0f172a?style=for-the-badge&labelColor=134e4a&color=2dd4bf" alt="WhatsApp" /></a>
+  <a href="mailto:mohamed.k.hekal@gmail.com"><img src="https://img.shields.io/badge/✉_Email-0f172a?style=for-the-badge&labelColor=134e4a&color=f59e0b" alt="Email" /></a>
+  <a href="https://linkedin.com/in/mohekal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
   <b>Got a messy business problem?</b><br/>
-  <i>I’ll turn it into architecture you can ship.</i>
+  <i>I’ll turn it into architecture — across languages, cloud, and AI-speed delivery.</i>
 </p>
