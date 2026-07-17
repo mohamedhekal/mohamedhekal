@@ -252,19 +252,20 @@ This is why my software thinking includes **failure modes, networks, and operati
 
 ---
 
-## GitHub pulse
+## GitHub pulse — last 2 years
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamedhekal&show_icons=true&theme=transparent&hide_border=true&title_color=2dd4bf&icon_color=f59e0b&text_color=cbd5e1&bg_color=00000000" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhekal&layout=compact&theme=transparent&hide_border=true&title_color=2dd4bf&text_color=cbd5e1&bg_color=00000000" alt="Top languages" />
+  <img src="./assets/github-snapshot.svg" alt="GitHub snapshot stats" height="190" />
+  &nbsp;
+  <img src="./assets/top-languages.svg" alt="Top languages" height="190" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedhekal&theme=dark&hide_border=true&background=00000000&ring=2dd4bf&fire=f59e0b&currStreakLabel=94a3b8" alt="GitHub streak" />
+  <img src="./assets/contributions-2y.svg" alt="Mohamed Hekal GitHub contributions — last 2 years (Jul 2024 → Jul 2026)" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedhekal&bg_color=071018&color=2dd4bf&line=f59e0b&point=e2e8f0&area=true&hide_border=true" alt="Contribution graph" width="100%" />
+  <sub>Heatmap generated from GitHub GraphQL · <b>7,547</b> contributions · Jul 2024 → Jul 2026</sub>
 </p>
 
 ---
