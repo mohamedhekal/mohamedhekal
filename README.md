@@ -156,9 +156,9 @@ agentproof compare --agents replay:cassettes/claude.jsonl --runs 5 --chaos 0.3  
 
 </details>
 
-### ChatProf AI &nbsp;`Implemented` · product
+### ChatProf AI &nbsp;`Professional experience` · client product
 
-A **bilingual (Arabic / English) AI workspace** for study and work: users bring their own documents and get explanations they can use. According to the project README it covers file pipelines, plans and usage limits, payments, an admin dashboard and a PWA, built on Laravel, Vue 3 and Inertia with PostgreSQL, Redis and S3.
+A **bilingual (Arabic / English) AI workspace** for study and work, designed and implemented by me for a client: users bring their own documents and get explanations they can use. According to the project README it covers file pipelines, plans and usage limits, payments, an admin dashboard and a PWA, built on Laravel, Vue 3 and Inertia with PostgreSQL, Redis and S3.
 
 <p align="center">
   <picture>
@@ -355,16 +355,18 @@ I publish the reasoning, not only the code. Everything below is in public reposi
 
 ## 13 · GitHub signals
 
-No live counters, no third-party stat widgets: a short list of facts checked against the GitHub API on **2026-11-07**.
+No live third-party widgets: a short table refreshed weekly from the GitHub API by a least-privilege workflow ([`update-signals.yml`](.github/workflows/update-signals.yml)).
 
+<!-- signals:start -->
 | Signal | Value |
 |:--|:--|
 | Original public repositories | 91 |
-| Tagged releases | AgentProof [v0.1.0](https://github.com/mohamedhekal/agentproof/releases/tag/v0.1.0) (explainer videos in EN and AR) |
-| AgentProof CI (tests and reliability gate) | last run passed on 2026-11-07 |
-| Open-source Laravel packages | indexed in [oss-portfolio](https://github.com/mohamedhekal/oss-portfolio), built to a stated bar of tests, CI and static analysis |
+| Latest AgentProof release | [v0.1.0](https://github.com/mohamedhekal/agentproof/releases/tag/v0.1.0) (explainer videos in EN and AR) |
+| AgentProof CI (tests and reliability gate) | last run on main: **success** (2026-11-07) |
+| Open-source Laravel packages | indexed in [oss-portfolio](https://github.com/mohamedhekal/oss-portfolio) |
 
-<sub>This table is static and dated on purpose. Contribution activity is on the profile page itself.</sub>
+<sub>Refreshed automatically from the GitHub API on 2026-11-07. No third-party stat services.</sub>
+<!-- signals:end -->
 
 ---
 
