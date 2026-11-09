@@ -360,12 +360,12 @@ No live third-party widgets: a short table refreshed weekly from the GitHub API 
 <!-- signals:start -->
 | Signal | Value |
 |:--|:--|
-| Original public repositories | 91 |
+| Original public repositories | 92 |
 | Latest AgentProof release | [v0.1.0](https://github.com/mohamedhekal/agentproof/releases/tag/v0.1.0) (explainer videos in EN and AR) |
 | AgentProof CI (tests and reliability gate) | last run on main: **success** (2026-11-07) |
 | Open-source Laravel packages | indexed in [oss-portfolio](https://github.com/mohamedhekal/oss-portfolio) |
 
-<sub>Refreshed automatically from the GitHub API on 2026-11-07. No third-party stat services.</sub>
+<sub>Refreshed automatically from the GitHub API on 2026-11-09. No third-party stat services.</sub>
 <!-- signals:end -->
 
 ---
