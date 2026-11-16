@@ -365,7 +365,7 @@ No live third-party widgets: a short table refreshed weekly from the GitHub API 
 | AgentProof CI (tests and reliability gate) | last run on main: **success** (2026-11-07) |
 | Open-source Laravel packages | indexed in [oss-portfolio](https://github.com/mohamedhekal/oss-portfolio) |
 
-<sub>Refreshed automatically from the GitHub API on 2026-11-09. No third-party stat services.</sub>
+<sub>Refreshed automatically from the GitHub API on 2026-11-16. No third-party stat services.</sub>
 <!-- signals:end -->
 
 ---
