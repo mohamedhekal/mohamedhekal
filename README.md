@@ -6,11 +6,7 @@
 
 <!-- ============ 01 · HERO ============ -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/ai-hero.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/ai-hero-light.svg">
-    <img src="assets/ai-hero.svg" alt="Mohamed Hekal. AI Systems Architect, Agentic AI Engineer, Enterprise Systems Builder, Backend and Cloud Engineer. Lifecycle: Architect, Build, Integrate, Orchestrate, Evaluate, Secure, Deploy, Operate, Improve." width="100%">
-  </picture>
+  <img src="assets/executive-profile.webp" alt="Executive technology profile of Mohamed Khaled Ahmed Hamad. Senior Software Engineer, Enterprise Solutions Architect, AI Systems Engineer. 10+ years experience, core expertise, signature project Kzamiza ERP, career highlights, education and credentials." width="100%">
 </p>
 
 <h3 align="center"><i>I engineer intelligent systems that don't just think — they act, integrate, scale, and survive production.</i></h3>
