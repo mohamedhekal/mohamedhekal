@@ -15,7 +15,8 @@
   <a href="https://github.com/mohamedhekal"><b>GitHub</b></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/mohekal/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
   <a href="mailto:mohamed.k.hekal@gmail.com"><b>Email</b></a> &nbsp;·&nbsp;
-  <a href="https://codemista.com"><b>codemista.com</b></a>
+  <a href="https://codemista.com"><b>codemista.com</b></a> &nbsp;·&nbsp;
+  <a href="assets/Mohamed-Khaled-Hamad-CV.pdf"><b>CV (PDF)</b></a>
 </p>
 
 <p align="center">
